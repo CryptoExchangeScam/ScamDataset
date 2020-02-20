@@ -6,7 +6,7 @@ You can [Click Here](https://cryptoexchangescam.github.io/ScamDataset/domain_dat
 
 For more information, please check the following paper:
 ```
-/paper cite
+/paper cite 
 ```
 
 You can also download the csv file of the dataset:
